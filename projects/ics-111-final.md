@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/snake-game-screenshot.png
+image: images/snake-game-screenshot.jpg
 title: ICS 111 Final Project
 permalink: projects/ics-111-final
 date: 2021-21-01
