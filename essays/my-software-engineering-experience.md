@@ -8,9 +8,9 @@ labels:
   - Learning
 ---
 
-#My Software Engineering Experience
+My Software Engineering Experience
 
-##My First Encounter With Software Development.
+My First Encounter With Software Development.
 
 I first learned that I had an interest in software engineering and code design when I was a student in highschool. As a
 student enrolled in an IB program (International Baccalaureate), I was required to partake in a personal project, in
@@ -20,7 +20,7 @@ programming I decided I would attempt to recreate the simple windows calculator 
 just basic operations of addition, subtracting, division, and multiplication. (Ok maybe not my first experience, but 
 editing an Adobe Flash file to make a ball bounce across the screen hardly counts as programming.)
 
-##Over 3 Billion Errors
+Over 3 Billion Errors
 
 I had learned about the language from playing the popular videogame Minecraft and online forums seemed to agree that it
 was a good first programming language; according to Oracle it even ran on almost '3 Billion devices'... I remember 
@@ -31,7 +31,7 @@ JPanel with JButtons. I had no idea what I was doing, but it was exhilarating. I
 online forum browsing) lay out a simple grid with with all the numbers and operators, and it actually calculated my 
 result! It might have crashed after 5 minutes due to a memory leak, but I was still proud of my small accomplishment.
 
-##Looking Forward
+Looking Forward
 
 Though I have more experience now with steps to take when it comes to program design, I often think back to that first
 calculator program. When programming I often end up back in that state of struggle and researching when my code doesn't
