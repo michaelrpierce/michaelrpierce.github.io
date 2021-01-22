@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjacobktaylor.files.wordpress.com%2F2014%2F08%2Funity-logo.png&f=1&nofb=1
+image: images/unity-logo.png
 title: Procedural Dungeon Generation In Unity
 permalink: projects/unity-procedural
 date: 2021-21-01
