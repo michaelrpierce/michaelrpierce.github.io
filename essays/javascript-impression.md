@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Javascript Impression
-date: 2021-21-01
+date: 2021-01-21
 labels:
   - Software Engineering
   - Learning
