@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: My Software Engineering Experience
+date: 2021-21-1
+labels:
+  - Software Engineering
+  - Learning
+---
+
 #My Software Engineering Experience
 
 ##My First Encounter With Software Development.
