@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: Javascript Impression
+date: 2021-21-1
+labels:
+  - Software Engineering
+  - Learning
+---
 #Javascript Impression
 
 ##First Impressions
