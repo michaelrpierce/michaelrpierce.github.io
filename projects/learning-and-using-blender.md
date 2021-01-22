@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blender-face-with-donut.png
+image: images/blender-face-with-donut.PNG
 title: Blender Modeling
 permalink: projects/learning-and-using-blender
 date: 2021-21-01
@@ -15,8 +15,8 @@ summary: I learned how to sculpt and texture a 3D model in Blender.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/blender-pug-model.png">
-  <img class="ui image" src="../images/blender-face-with-donut.png">
-  <img class="ui image" src="../images/blender-face-without-donut.png">
+  <img class="ui image" src="../images/blender-face-with-donut.PNG">
+  <img class="ui image" src="../images/blender-face-without-donut.PNG">
 </div>
 
 ## Modeling and Texturing
