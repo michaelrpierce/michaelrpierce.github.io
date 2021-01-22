@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://i9.ytimg.com/vi/5HoXUK7cB9o/mq2.jpg?sqp=CPjIqoAG&rs=AOn4CLB4aV6S52hJrorXS6ha07_UEnarxw"
+image: images/snake-game-screenshot.png
 title: ICS 111 Final Project
 permalink: projects/ics-111-final
 date: 2021-21-01
