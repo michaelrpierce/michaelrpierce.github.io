@@ -15,7 +15,7 @@ summary: I created snake game using knowledge learned over the duration of the I
 
 ## Snake Game
 
-<img class="../images/snake-game-screenshot.jpg">
+<img class="ui medium right floated rounded image" src="../images/snake-game-screenshot.jpg">
 
 
 This snake game was developed as a final project for my ICS 111 class at UH Manoa. The aim of the project was to
