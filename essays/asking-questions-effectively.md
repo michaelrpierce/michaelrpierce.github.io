@@ -2,12 +2,13 @@
 layout: essay
 type: essay
 title: Asking Questions Effectively
-date: 2021-28-01
+date: 2021-01-28
 labels:
   - Questions
   - StackOverflow
   - Research
 ---
+
 ## Introduction
 
 Eric Raymond's [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) provides a helpful guideline when it comes to asking technical
