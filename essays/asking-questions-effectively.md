@@ -32,8 +32,8 @@ unrelated answer and wasted time. After 2 edits it appears OP was never able to 
 as they posted more snippets of code without attempting to further communicate which parts of the problem they 
 needed assistance with. It feels as if OP was asking for other members to solve their homework problem.
 
-Now consider the most upvoted posted on StackOverflow (Why is processing a sorted array faster than processing an
-unsorted array?)[https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array] The question provided here is an example of what constitutes a "smart question". For starters,
+Now consider the most upvoted posted on StackOverflow [Why is processing a sorted array faster than processing an
+unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) The question provided here is an example of what constitutes a "smart question". For starters,
 the OP of this question is not asking for anyone to tell them where they are doing wrong. The question title itself
 provides a clear demonstration of the problem that OP is trying to accomplish. OP is clearly demonstrating in the post
 that they are trying to understand why a segment of code runs faster on sorted data vs unsorted data and provides
