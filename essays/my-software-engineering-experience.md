@@ -25,9 +25,9 @@ editing an Adobe Flash file to make a ball bounce across the screen hardly count
 I had learned about the language from playing the popular videogame Minecraft and online forums seemed to agree that it
 was a good first programming language; according to Oracle it even ran on almost '3 Billion devices'... I remember 
 constructing the program to be difficult. As a sophomore in high school, I never had the opportunity to study
-any programming or concept design concepts, and I definitely didn't understand why a semicolon was so important for 
+any programming or software design concepts, and I definitely didn't understand why a semicolon was so important for 
 something called "compiling". Eventually I stumbled my way through the Java documentation and was able to construct a 
-JPanel with JButtons. I had no idea what I was doing, but it was exhilarating. I was able to (with copious amounts of 
+JPanel with JButtons. I had little idea what I was doing, but it was exhilarating. I was able to (with copious amounts of 
 online forum browsing) lay out a simple grid with with all the numbers and operators, and it actually calculated my 
 result! It might have crashed after 5 minutes due to a memory leak, but I was still proud of my small accomplishment.
 
