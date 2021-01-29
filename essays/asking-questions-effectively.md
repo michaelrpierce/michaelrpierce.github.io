@@ -4,10 +4,11 @@ type: essay
 title: Asking Questions Effectively
 date: 2021-28-01
 labels:
-	- Questions
-	- StackOverflow
-	- Research
+  - Questions
+  - StackOverflow
+  - Research
 ---
+## Introduction
 
 Eric Raymond's [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) provides a helpful guideline when it comes to asking technical
 questions. The introduction of the document provides an excellent insight into what kind of mindsight makes a question
@@ -17,6 +18,8 @@ to possibly even find the answers without requiring posting to a forum in the fi
 search or through previous posts on a specific forum). Taking the time to ponder your topic and actively engaging to
 attempt the problem are likely to provide better/helpful results. Demanding someone else to solve a problem that you
 have no interest in attempting does not improve your skills as a programmer, and will only serve to hinder you.
+
+## Bad Example
 
 The StackOverflow question [here](https://stackoverflow.com/questions/4434754/whats-wrong-with-this-code) provides an excellent example of how not taking a moment to develop your question
 in a smart way can lead to inefficiencies and a waste of time for anyone involved. The OP (original poster) begins by describing
@@ -32,6 +35,8 @@ unrelated answer and wasted time. After 2 edits it appears OP was never able to 
 as they posted more snippets of code without attempting to further communicate which parts of the problem they 
 needed assistance with. It feels as if OP was asking for other members to solve their homework problem.
 
+## Good Example
+
 Now consider the most upvoted posted on StackOverflow [Why is processing a sorted array faster than processing an
 unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) The question provided here is an example of what constitutes a "smart question". For starters,
 the OP of this question is not asking for anyone to tell them where they are doing wrong. The question title itself
@@ -40,8 +45,7 @@ that they are trying to understand why a segment of code runs faster on sorted d
 examples of what they have attempted in order to understand the issue. As a result of OP taking the time to formulated
 their question in a constructive manner, they receive productive answers. The top answer provides a well-formatted 
 insight into both the concept behind OP's topic, and highlights which section of the code is causing the issue. 
- 
- 
+
 By showing that they are committed to solving their problem, OP attracted the attention of others and inspired them
 to work together to form a productive discussion. StackOverflow and other forums are not homework solving boards for
 one to reference so that they can avoid thinking. The level of effort a poster puts into solving a problem is going
