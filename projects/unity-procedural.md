@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/unity-logo.png
+image: images/unity-logo-300x300.png
 title: Procedural Dungeon Generation In Unity
 permalink: projects/unity-procedural
 date: 2021-21-01
