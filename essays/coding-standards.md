@@ -24,9 +24,9 @@ option to reformat code, there should be no reason for code to be disorganized.
 
 ## Consistency is Key
 
-1. Implementing the proper coding standards within the same group/organization can lend to improved readability and efficiency.
+> Implementing the proper coding standards within the same group/organization can lend to improved readability and efficiency.
 
-2. Implementing   the proper   coding   standards   withinTheSame   group  /organization   can   lend   to improved   readabilityand   efficiency.
+> Implementing   the proper   coding   standards   withinTheSame   group  /organization   can   lend   to improved   readabilityand   efficiency.
 
 Which of the above sentences was easier to read? What about the following?
 
