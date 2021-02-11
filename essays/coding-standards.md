@@ -9,7 +9,7 @@ labels:
   - Research
 ---
 
-## There is No Right Way to Program, but There Are Many Wrong Ways
+## There is No Right Way to Program, But There Are Many Wrong Ways
 
 One of the first things I was ever told when I began to learn programming techniques was that there was no *one* right
 to right a program. There are many ways to implement or complete a task when writing a program and this leads to a wide
