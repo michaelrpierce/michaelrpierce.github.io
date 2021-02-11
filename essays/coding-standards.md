@@ -47,3 +47,5 @@ your functions as **foo(var)** or **foo (var)** as long as you are consistent th
 or organization (at the very least be consistent in the same file). Using tools such as ESLint with the IntelliJ IDE 
 has allowed me to personally ensure that the code I am writing is consistent and readable, with almost no effort 
 exerted by me at all. Utilize the resources that are available to you to produce more readable code and save time.
+
+ 
