@@ -28,9 +28,9 @@ rudimentary grasp of html and css, creating good looking web pages using the Sem
 and there were so many tools to work with. I had a couple hiccups attempting to use the framework at first, but the 
 excellent documentation and variety of examples made the learning process much easier, to the point where displaying
 items on the page almost felt as if I was writting in English. Multiple column layouts seemed elementary: if I wanted
-a grid layout I could just created a div class called "ui grid"; And of course if I wanted a column with rows I would
+a grid layout I could just create a div class called "ui grid"; And of course if I wanted a column with rows I would
 created a column and a row. It might not sound like something that is very exciting, but I was thrilled as to how 
-a framework like Semantic UI made the UI development process simple and streamlined, and inspired me to explore further
+a framework like Semantic UI made the UI development process simple and streamlined, and inspired me to further explore
 its capabilities.
 
 I am really enjoying learning the skills needed to build functional webpages with good aesthetics. I always enjoy 
