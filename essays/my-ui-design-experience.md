@@ -36,6 +36,6 @@ its capabilities.
 I am really enjoying learning the skills needed to build functional webpages with good aesthetics. I always enjoy 
 programming challenges that allow me to express my artistic side and further my learning. I understand I have a lot 
 more to learn when it comes to UI design concepts and building webpages with html, css, and their various UI 
-frameworks, and I am excited to explore the field further. In the following weeks in ICS 311 we will be studying how to
+frameworks, and I am excited to explore the field further. In the following weeks in ICS 314 we will be studying how to
 use the React framework for UI design and I am looking forward to delving into the various things that can be
 accomplished with it.
