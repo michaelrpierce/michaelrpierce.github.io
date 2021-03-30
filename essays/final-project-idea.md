@@ -7,11 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Group Members:
-Michael Pierce
-Marissa Halim
-Steven Le
-Tam Nguyen
+Group Members: Michael Pierce, Marissa Halim, Steven Le, Tam Nguyen
 
 
 
