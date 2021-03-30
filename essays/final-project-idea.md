@@ -17,22 +17,22 @@ Tam Nguyen
 
 ## Overview
 
-The Problem: During the pandemic social distancing has led to less student interaction outside the classroom than ever before. How do you promote peer-peer interaction outside of the classroom while ensuring everyone’s health and safety?
+*The Problem*: During the pandemic social distancing has led to less student interaction outside the classroom than ever before. How do you promote peer-peer interaction outside of the classroom while ensuring everyone’s health and safety?
 
-The Solution: A UH chat service akin to Omegle that randomly connects interested students in an online chat room. UH members can log into the chat service and connect with other members randomly or based on similar interests.
+*The Solution*: A UH chat service akin to Omegle that randomly connects interested students in an online chat room. UH members can log into the chat service and connect with other members randomly or based on similar interests.
 
 ## Mockup page ideas
 
-*Landing page
-*Login page
-*Sign up page
-*Profile page
-*“Start Chatting” page
-  *Report function to report anyone 
-  *Emojis :P
-  *Option to chat as anonymous
-*Topics page
-*Report Page
+* Landing page
+* Login page
+* Sign up page
+* Profile page
+* “Start Chatting” page
+  * Report function to report anyone 
+  * Emojis :P
+  * Option to chat as anonymous
+* Topics page
+* Report Page
 
 ## Use case ideas
 * New user goes to landing page, logs in, gets home page, and sets up profile w/ profile pic, name, year, major, interests, and social media handles(optional)
