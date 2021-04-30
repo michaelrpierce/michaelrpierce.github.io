@@ -33,7 +33,7 @@ is a good start for further research on specific patterns), I will provide a bri
 patterns. The consensus is that the many software design patterns fall into one of three archetypes: creational, 
 behavioural, and structural.
 
-## Many Different Fish in the Sea
+### Many Different Fish in the Sea
 
 #### Creational
 
