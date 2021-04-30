@@ -28,7 +28,7 @@ isn't going to get you to the top of Everest. Just like how a wheel is designed 
 to realize that software design patterns are intended to solve specific problems, and there are benefits and trade-offs
 to each. 
 
-While I will not going to list all of the specific design patterns here (the [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern) page on software design patterns 
+While I am not going to list all of the specific design patterns here (the [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern) page on software design patterns 
 is a good start for further research on specific patterns), I will provide a brief example of a few software design 
 patterns. The consensus is that the many software design patterns fall into one of three archetypes: creational, 
 behavioural, and structural.
