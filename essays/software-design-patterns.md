@@ -62,6 +62,6 @@ request to the appropriate handlers.
 
 Over the course of and prior to this last semester I have been encountering a variety of these design problems and 
 appropriate design patterns used to solve them. They have served as excellent tools to guide me throughout the 
-learning process and in many problem solving scenarios without even fully realizing it. Looking forward I am excited
+learning process and in many problem solving scenarios without even fully realizing it. Looking forward, I am excited
 to experience and implement more of these design patterns to better grow as a more solid and well-rounded software 
 developer.
