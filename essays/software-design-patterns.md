@@ -33,7 +33,9 @@ is a good start for further research on specific patterns), I will provide a bri
 patterns. The consensus is that the many software design patterns fall into one of three archetypes: creational, 
 behavioural, and structural.
 
-### Creational
+## Many Different Fish in the Sea
+
+#### Creational
 
 The creational design pattern can be described as how to create objects. One example is the singleton design pattern.
 This is a very straightforward design that allows only one instance of a class to be created. Over this past semester
@@ -42,14 +44,14 @@ pattern by constructing a single collection instance to provide the rest of the 
 database. 
 
 
-### Behavioural
+#### Behavioural
 
 The structural design pattern can be described as how to manage interactions between objects. One example is the 
 publish/subscribe design pattern. This design pattern is fundamental to the way in which data is shared within the 
 Meteor API. The MongoDB collections are published and pages can subscribe to individual publications as necessary to 
 load relevant information to create the web page.
 
-### Structural
+#### Structural
 
 The structural design pattern can be described as how to represent a collection of objects. With Meteor I have been 
 using a Front Controller design (specifically the FlowRouter package) with Bowfolios to handle and process requests.
