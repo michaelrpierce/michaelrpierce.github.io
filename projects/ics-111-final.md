@@ -22,11 +22,11 @@ This snake game was developed as a final project for my ICS 111 class at UH Mano
 utilize techniques learned over the semester to create a small game project and demonstrate it in a youtube video.
 During the project I learned about function and variable scope, as well as object inheritence. I enjoyed working on
 the projects in this class because ever since I started learning how to program, designing video games has always 
-interested me.
+been interesting to me.
 
 Before this class I had designed a simple ball bouncing game but I had always wanted to take on one of the classics
 like tetris or pong, or snake. I decided the game logic was simple enough for my ability at the time and could
-properly demonstrate my grasping on the intended topics of inheritence and scope. I am happy with how the game 
+properly demonstrate my grasp of the related topics of inheritence and scope. I am happy with how the game
 turned out even if the animation was choppy and the tail started to grow only once it reached the spot where the
 apple was eaten (as shown in the video). I would likely change much of the design using what I know today.
 
