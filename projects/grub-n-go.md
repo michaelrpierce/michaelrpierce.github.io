@@ -13,11 +13,11 @@ labels:
 summary: My team and I developed a web application to provide students and faculty at UH Manoa with a service that enables them to easily search for places to eat, based on their cravings or what is available.
 ---
 
-#Grub-n-Go
+# Grub-n-Go
 
 <img class="ui medium right floated rounded image" src="https://grub-n-go.github.io/image/landingpage.PNG">
 
-##Overview
+## Overview
 Over the course of these last few months my team and I have developed a web application we call [Grub-N-Go](https://grub-n-go.github.io/).
 The intention for Grub-n-Go was to provide students and faculty members located at University of Hawaii's Manoa campus
 with a simple and easy to use service that allows them to search for places to eat. The website provides options for
