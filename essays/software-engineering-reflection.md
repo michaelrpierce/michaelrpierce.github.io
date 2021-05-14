@@ -31,7 +31,7 @@ html document without unneccessarily wasting the time to reinvent the wheel, or 
 As the semester progressed our knowledge of software engineering principles grew, and we began to
 dip our toes into the waters of web application development. It was sometime during our [final project](https://michaelrpierce.github.io/projects/grub-n-go) where I began to
 realize how important it was for me to consider the ethical responsibilites that came with creating a product for the
-world. I recall back to a reading regarding a (malicious webpage targeting women in order to push a product)[https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/#.tsjl7lkxy]. The 
+world. I recall back to a reading regarding a [malicious webpage targeting women in order to push a product](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/#.tsjl7lkxy). The 
 website was disguised as general information site that recommended a medical treatment for young women who compelted a
 questionnaire, except regardless of the answers the user would always be recommended the paid client's drug. The 
 practice wasn't illegal but the drug contained some pretty severe side effects such as depression and suicidal thoughts,
