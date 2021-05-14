@@ -44,5 +44,5 @@ techniques learned in videogame design.
 
 
 
-* At the time of writing this article I believed the aforementioned code was saved to my laptop, but after searching for
+At the time of writing this article I believed the aforementioned code was saved to my laptop, but after searching for
 many hours I have concluded that it too was unfortunately lost along with everything else on the project.
