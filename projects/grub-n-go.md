@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/unity-logo-300x300.png
+image: images/grub-n-go-inverted-logo.png
 title: Grub N Go
 permalink: projects/grub-n-go
 date: 2021-13-05
