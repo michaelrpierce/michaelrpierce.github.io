@@ -10,8 +10,7 @@ labels:
   - Software Engineering
   - MongoDB
   - Semantic UI React
-summary: My team and I developed a web application to provide students and faculty at UH Manoa with a service that
- enables them to easily search for places to eat, based on their cravings or what is available.
+summary: My team and I developed a web application to provide students and faculty at UH Manoa with a service that enables them to easily search for places to eat, based on their cravings or what is available.
 ---
 
 #Grub-n-Go
