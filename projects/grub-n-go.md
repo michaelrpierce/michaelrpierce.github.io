@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/grub-n-go-inverted-logo.png
-title: Grub-N-Go
+title: Grub N Go
 permalink: projects/grub-n-go
 date: 2021-12-05
 labels:
@@ -32,6 +32,6 @@ Engineering over the course of the past semester. I entered the semester with ve
 and had yet to utilize github for version control. As the semester progressed I encountered many tools I would add to
 my software engineering toolkit, from experience with javascript to knowledge of the meteor API. The scope of my work in
 the project included creating and managing collections within the mongodb, writing server side meteor methods to manage
- publications, and creating pages such as Today's Menu. I felt I was able to properly utilize knowledge I've gained over
- the past semester in my ICS 314 Software Engineering class, and feel better prepared moving forward in my software
- engineering journey.
+publications, and creating pages such as Today's Menu. I felt I was able to properly utilize knowledge I've gained over
+the past semester in my ICS 314 Software Engineering class, and feel better prepared moving forward in my software
+engineering journey.
