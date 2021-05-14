@@ -15,7 +15,7 @@ summary: My team and I developed a web application to provide students and facul
 
 # Grub-n-Go
 
-<img class="ui medium right floated rounded image" src="https://grub-n-go.github.io/image/landingpage.PNG">
+<img class="ui medium right floated rounded image" src="images/grub-n-go-landing.png">
 
 ## Overview
 Over the course of these last few months my team and I have developed a web application we call [Grub-N-Go](https://grub-n-go.github.io/).
