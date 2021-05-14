@@ -51,8 +51,23 @@
       "keywords": [
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Meteor API",
+        "MongoDB"
       ]
+    },
+    {
+      {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows 10",
+        "Windows 7",
+        "Git/Github",
+        "IntelliJ IDEA",
+        "Eclipse"
+      ]
+    }
     }
   ],
   "education": [
@@ -65,6 +80,12 @@
       "gpa": "",
       "courses": [
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "University of Hawaii at Manoa Dean's List",
+      "summary": "Awarded during the semester of Fall 2020"
     }
   ],
   "references": [
