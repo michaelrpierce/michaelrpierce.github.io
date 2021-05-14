@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering Reflection
+title: A Reflection on Software Engineering
 date: 2021-05-13
 labels:
   - Software Engineering
