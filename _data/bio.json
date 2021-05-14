@@ -57,7 +57,6 @@
       ]
     },
     {
-      {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -67,7 +66,6 @@
         "IntelliJ IDEA",
         "Eclipse"
       ]
-    }
     }
   ],
   "education": [
