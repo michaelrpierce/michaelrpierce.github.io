@@ -12,7 +12,7 @@ labels:
 ## Introduction
 
 Eric Raymond's [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) provides a helpful guideline when it comes to asking technical
-questions. The introduction of the document provides an excellent insight into what kind of mindsight makes a question
+questions. The introduction of the document provides an excellent insight into what kind of mindset makes a question
 good vs bad. The distinction between winners with well formulated, thought-provoking questions, and losers highlights
 the important distinction between making progress and wasting the time of those around you. There many helpful tips 
 to possibly even find the answers without requiring posting to a forum in the first place (such as through a google 
@@ -28,7 +28,7 @@ the problem they are having with reading files with a particular file name. If y
 uninformative as to what problem the original poster is having, then you will not have any luck from visiting
 the post for further detail. After that brief description, a snippet of code is posted followed by the question:
 "Could anyone tell me where am i doing wrong!?". As you can probably imagine the comments on the post are only as
-helpful as the post itself. There is constant back and forth between the OP and the commentors who are constantly
+helpful as the post itself. There is constant back and forth between the OP and those in the comments who are constantly
 asking for more information or detail, or linking to external documentation, as OP does not provide enough detail
 or effort into describing what they are attempting to do. It is not until you read to the very last comment on the
 page that OP provides information that the project they are attempting to build is a spam filter, leading to an
